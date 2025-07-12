@@ -15,5 +15,6 @@ Archived content taken from the game or community of "Criminality" on Roblox.
     * Leaks - Official game leaks that are not publicly available
     * ⚠️ RVVZ Sightings - Videos of the owner of Criminality being discovered in other Roblox games (Some videos include offensive language!)
     * Removed - Videos removed from YouTube by the Criminality team
+* Files - Misc. files related to Criminality and its team
 
 ### If you have any submissions please create an issue or pull request to this repository.
