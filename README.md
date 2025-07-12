@@ -2,7 +2,9 @@
 Archived content taken from the game or community of "Criminality" on Roblox.
 
 ## Table Of Contents
-* Studio - Leaked Criminality Roblox Studio files (May include some remade/unofficial code)
+* Studio - Leaked Criminality Roblox Studio files (May include some remade/unofficial code) 
+    * ⚠️ **Note that all studio files are community submitted, some may contain things such as backdoors, be careful!**
+    * Criminality 2.5.1 (Lightly modified with custom loading screen & other changes)
     * Criminality 2.1 (Server scripts taken from 2.0 leak)
     * Criminality 2.0
     * Criminality 1.6 (Lightly modified version with custom main menu & other changes)
